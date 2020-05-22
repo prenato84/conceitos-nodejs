@@ -36,7 +36,7 @@ app.put("/repositories/:id", (request, response) => {
 
   const repository = repositories.find((repository) => repository.id === id);
 
-  if (repository === undefined) {
+  if (!repository) {
     return response.status(400).json({ error: "Repository not found." });
   }
 
@@ -68,7 +68,7 @@ app.post("/repositories/:id/like", (request, response) => {
 
   const repository = repositories.find((repository) => repository.id === id);
 
-  if (repository === undefined) {
+  if (!repository) {
     return response.status(400).json({ error: "Repository not found." });
   }
 
