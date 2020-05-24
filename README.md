@@ -37,7 +37,7 @@ Desafio 2 do Bootcamp GoStack 11
 
 Nesse desafio, foi criada uma aplicação para treinar o que aprendi até agora no Node.js!
 
-É uma aplicação para armazenar repositórios do meu portfólio, que permiti a criação, listagem, atualização e remoção dos repositórios e, além disso, permiti que os repositórios possam receber "likes".
+É uma aplicação para armazenar repositórios do meu portfólio, que permite a criação, listagem, atualização e remoção dos repositórios e, além disso, permite que os repositórios possam receber "likes".
 
 ### :keyboard: Instalação e Execução do Projeto
 
