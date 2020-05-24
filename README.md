@@ -26,6 +26,7 @@ Desafio 2 do Bootcamp GoStack 11
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#keyboard-instalação-e-execução-do-projeto">Instalação e Execução do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#template-da-aplicação">Template da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rotas-da-aplicação-instruções">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#especificação-dos-testes-instruções">Específicação dos testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,6 +38,36 @@ Desafio 2 do Bootcamp GoStack 11
 Nesse desafio, foi criada uma aplicação para treinar o que aprendi até agora no Node.js!
 
 É uma aplicação para armazenar repositórios do meu portfólio, que permiti a criação, listagem, atualização e remoção dos repositórios e, além disso, permiti que os repositórios possam receber "likes".
+
+### :keyboard: Instalação e Execução do Projeto
+
+- Clone este repositório
+
+```
+> git clone https://github.com/prenato84/conceitos-nodejs
+```
+
+- Navegue até o diretório principal do projeto
+
+```
+> cd conceitos-nodejs
+```
+
+- Instale as dependências com o Yarn
+
+```
+yarn
+```
+
+- Execute o projeto
+
+```
+yarn dev
+```
+
+<p align="center">
+  <img src="./assets/yarn_dev.png">
+</p>
 
 ### Template da aplicação
 
